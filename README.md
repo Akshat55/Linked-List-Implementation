@@ -1,6 +1,6 @@
 # Linked List Implementation
 
-Generic Linked List implementation using templates & iterator class. 
+Generic Doubly Linked List (with sentinel nodes) implementation using templates & iterator class. 
 
 
 ### Assumption: 
